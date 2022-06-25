@@ -24,15 +24,20 @@ html,body{
 
 
 .navbar {
-	margin: 0 22rem;
+	margin: 2.5rem 20rem;
 	width: 48rem;
 	border-radius: 0.5rem;
 }
 
 .form-switch{
-	margin: -3.4rem 60rem;
+	margin: -3.5rem 60rem;
 }
 
 .btn{
 	background-color:royalblue
+}
+
+.row{
+	padding: 9rem 7rem;
+	width: 55rem;
 }
