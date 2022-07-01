@@ -8,15 +8,19 @@
  })
 
  function montarcards(lista){
-    let html = '';
+    let html = '<div class="container">';
 
   
 
     for(let i=0;i<lista.length;i++){
-        html += '<img src="./assets/logos/">'+lista[i].logo+'</img>';
-        html += '<h3>'+lista[i].position+'</h3>';
-        html += '<h4>'+lista[i].empresa+'</h4>';
+        html += '<img src="'+lista[i].logo+'"/>';
+        html += '<h4 style="color=blue">'+lista[i].position+'</h4>';
+        html += '<h5>'+lista[i].empresa+'</h5>';
+        html += '<span>'+lista[i].contrato+'</span>';
         html += lista[i].body+'<br/>';
+        html += '<span>'+lista[i].postedAt+'</span>';
+        html += lista[i].body+'<br/>';
+        html += '<button value="'+lista[i].requisitos+'"> Ver Mais</button>';
         html += '<hr/>';
     }
  

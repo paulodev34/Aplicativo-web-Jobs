@@ -10,7 +10,8 @@
     "local": "Reino Unido",
     "site": "https://example.com/scoot",
     "apply": "https://example.com/scoot/apply",
-    "description": "A Scoot está procurando um Engenheiro de Software Sênior apaixonado por criar experiências acessíveis, inovadoras e que priorizam o usuário para se juntar à nossa pequena, mas crescente equipe de Engenharia. Você será responsável por construir e manter a funcionalidade de front-end em todos os aplicativos da Scoot, promovendo uma equipe crescente de engenheiros de software e ajudando a impulsionar e manter os melhores padrões e práticas de software em nossa base de código.",
+    "description":
+     "A Scoot está procurando um Engenheiro de Software Sênior apaixonado por criar experiências acessíveis, inovadoras e que priorizam o usuário para se juntar à nossa pequena, mas crescente equipe de Engenharia. Você será responsável por construir e manter a funcionalidade de front-end em todos os aplicativos da Scoot, promovendo uma equipe crescente de engenheiros de software e ajudando a impulsionar e manter os melhores padrões e práticas de software em nossa base de código.",
     "requisitos": {
       "content": "O candidato ideal é tão apaixonado por resolver desafios por meio da tecnologia. Eles são bem versados ​​em construir provas de conceitos do zero e levar esses POCs para produção e escala. O ajuste certo terá a experiência de engenharia para construir e iterar rapidamente e se sente confortável trabalhando com produto e design para definir a estratégia técnica e o roteiro.",
       "Itens": [
