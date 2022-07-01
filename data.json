@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "empresa": "Scoot",
+    "logo": "./assets/logos/scoot.svg",
+    "logoBackground": "hsl(36, 87%, 49%)",
+    "position": "Engenheiro de Software Sênior",
+    "postedAt": "5h atrás",
+    "contrato": "Tempo Integral",
+    "local": "Reino Unido",
+    "site": "https://example.com/scoot",
+    "apply": "https://example.com/scoot/apply",
+    "description": "A Scoot está procurando um Engenheiro de Software Sênior apaixonado por criar experiências acessíveis, inovadoras e que priorizam o usuário para se juntar à nossa pequena, mas crescente equipe de Engenharia. Você será responsável por construir e manter a funcionalidade de front-end em todos os aplicativos da Scoot, promovendo uma equipe crescente de engenheiros de software e ajudando a impulsionar e manter os melhores padrões e práticas de software em nossa base de código.",
+    "requisitos": {
+      "content": "O candidato ideal é tão apaixonado por resolver desafios por meio da tecnologia. Eles são bem versados ​​em construir provas de conceitos do zero e levar esses POCs para produção e escala. O ajuste certo terá a experiência de engenharia para construir e iterar rapidamente e se sente confortável trabalhando com produto e design para definir a estratégia técnica e o roteiro.",
+      "Itens": [
+        "5+ anos de experiência na indústria em uma função de engenharia de software, de preferência construindo um produto SaaS. Você pode demonstrar um impacto significativo que seu trabalho teve no produto e/ou na equipe.",
+        "Experiência com sistemas distribuídos escaláveis, tanto construídos do zero quanto em primitivos da AWS.",
+        "Extremamente orientado a dados.",
+        "Capacidade de depurar sistemas complexos."
+      ]
+    },
+    "papel": {
+      "content": "Estamos procurando um Engenheiro de Software Sênior para se juntar como uma de nossas primeiras contratações. À medida que iteramos em nosso MVP, você terá a oportunidade de conduzir a visão e possuir a construção por trás de nossa experiência digital. ter o apoio de um consultor técnico experiente, um chefe de produto e uma equipe externa para trabalhar.",
+      "Itens": [
+        "Esta função é para alguém que está empolgado com o estágio inicial - você será responsável por transformar a visão da plataforma em realidade por meio de construção e testes inteligentes e eficientes.",
+        "Traduzir o roteiro do produto em requisitos de engenharia e possuir o roteiro de engenharia",
+        "Trabalhe com recursos limitados para testar e aprender da maneira mais eficiente possível, enquanto estabelece a estrutura para criar um produto mais escalável ao longo do tempo.",
+        "Colabore com colegas de equipe de produto, design e engenharia externa conforme necessário."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "empresa": "Blog",
+    "logo": "./assets/logos/blogr.svg",
+    "logoBackground": "hsl(12, 79%, 52%)",
+    "position": "Haskell e PureScript Dev",
+    "postedAt": "20h atrás",
+    "contrato": "Part-Time",
+    "local": "Estados Unidos",
+    "site": "https://example.com/blogr",
+    "apply": "https://example.com/blogr/apply",
+    "description": "O Blogr está procurando um desenvolvedor de meio período para se juntar à nossa equipe de seis engenheiros full-stack. Nossos principais valores de desenvolvimento são a digitação e correção estáticas fortes, automação rigorosa (tanto em testes quanto em infraestrutura) e todos ter uma palavra a dizer.",
+    "requisitos": {
+      "content": "Estamos procurando adicionar cuidadosamente grandes desenvolvedores que se preocupam em resolver problemas e que estão em um relacionamento com Purescript e/ou Haskell há pelo menos 3 anos (embora não necessariamente monogâmicos).",
+      "Itens": [
+        "Você tem um talento especial para o design de interface do usuário",
+        "Tenha conhecimento/hacking Haskell ou Purescript em seu currículo.",
+        "Um engenheiro experiente familiarizado com testes e implantação automatizados.",
+        "Experientes com programação funcional e design orientado a domínios ou simplesmente interessados ​​e capazes de aprender no trabalho."
+      ]
+    },
+    "papel": {
+      "content": "A função é mais focada no frontend, onde você será encarregado de criar UIs baseadas em navegador para aplicativos Haskell.",
+      "Itens": [
+        "Construa nossa pilha de tecnologia em torno de Haskell e introduza as melhores práticas",
+        "Contribuir para o design do nosso motor de conversação e a arquitetura que o suporta",
+        "Projetar novas UIs, trabalhando em estreita colaboração com usuários, partes interessadas e a equipe de back-end.",
+        "Maximizar robustez, desempenho e escalabilidade das soluções"
+      ]
+    }
+  },
+{
+    "id": 3,
+    "empresa": "Vetor",
+    "logo": "./assets/logos/vector.svg",
+    "logoBackground": "hsl(235, 10%, 23%)",
+    "position": "Engenheiro de back-end de nível médio",
+    "postedAt": "1d atrás",
+    "contrato": "Part-Time",
+    "local": "Rússia",
+    "site": "https://example.com/vector",
+    "apply": "https://example.com/vector/apply",
+    "description": "Estamos procurando um engenheiro de back-end de nível médio para se juntar à nossa crescente organização de engenharia de software. A pessoa certa ajudará a levar nossa plataforma para o próximo nível. Você trabalhará como parte de uma equipe qualificada e colaborativa para projetar e implementar conjuntamente aplicativos de alta visibilidade.",
+    "requisitos": {
+      "content": "Como nosso candidato ideal, você tem experiência anterior em Ruby on Rails e está ansioso para continuar se desenvolvendo profissionalmente. Você trabalha bem em um ambiente ágil e colabora bem com outros engenheiros de software, engenheiros de automação de teste, gerentes de produto, e designers. Você prospera em um ambiente de ritmo acelerado e é capaz de se adaptar quando necessário.",
+      "Itens": [
+        "Participação ativa em uma equipe de desenvolvimento de software projetando, codificando, testando e liberando funcionalidades para nossos clientes",
+        "Colaboração próxima com outros engenheiros e gerentes de produto para se tornar um membro valioso de uma equipe autônoma e multifuncional",
+        "Responsabilidade operacional pelos serviços que pertencem à sua equipe, incluindo potencialmente a participação em uma rotação de plantão"
+      ]
+    },
+    "papel": {
+      "content": "Este é um trabalho IDEAL se você já tem alguns anos de experiência em engenharia de software e deseja fazer parte de uma equipe pequena e altamente qualificada, que sente total propriedade de seu trabalho e pode ' t imagine um dia sem aprender e codificar. Você desempenhará um papel crucial na plataforma Vector e tudo o que fizer será importante.",
+      "Itens": [
+        "Projete, codifique, implante e teste aplicativos de acordo com as histórias/requisitos do usuário e as melhores práticas do setor.",
+        "Siga o processo de ciclo de vida de software padrão da indústria ao desenvolver software",
+        "Realizar revisão de código com outros desenvolvedores",
+        "Ajudar no desenvolvimento e revisão por pares de planos, soluções técnicas e documentação relacionada."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "empresa": "Office Lite",
+    "logo": "./assets/logos/officelite.svg",
+    "logoBackground": "hsl(227, 62%, 48%)",
+    "position": "Engenheiro de Aplicação Sênior",
+    "postedAt": "2d atrás",
+    "contrato": "Tempo Integral",
+    "local": "Japão",
+    "site": "https://example.com/officelite",
+    "apply": "https://example.com/officelite/apply",
+    "description": "O Office Lite está procurando um Engenheiro de Aplicação Sênior talentoso e entusiasmado, cuja principal responsabilidade é a arquitetura de software e desenvolvimento para sistemas Office Lite. Responsabilidades adicionais incluem participação na estimativa de tempo/tarefa do projeto, revisões de código e arquitetura, fornecendo suporte para desenvolvedores juniores , documentação da arquitetura do sistema e um papel de suporte para todas as fases do ciclo de vida de desenvolvimento (definição do projeto, mapeamento de processos, arquitetura, codificação, teste de aceitação, instalação, rotatividade para suporte, etc.).",
+    "requisitos": {
+      "content": "Como um especialista prático no assunto, você usará o conhecimento de engenharia de nível especializado para fornecer suporte técnico e ajudar a traduzir os requisitos do cliente em novos recursos de produtos interessantes. Você trabalhará em equipes multidisciplinares para criar simulação abrangente soluções, avance seu conhecimento do setor e aumente o impacto nos negócios.",
+      "Itens": [
+        "Proficiência especialista em Node.js em um ambiente de produção",
+        "Proficiência no desenvolvimento de APIs REST",
+        "Proficiência especializada com bancos de dados relacionais (MySQL) e otimização de consultas SQL",
+        "Extensa experiência com arquitetura baseada em microsserviços em produção",
+        "Experiência com CircleCI, Jenkins ou aplicativos semelhantes de CI/CD"
+      ]
+    },
+    "papel": {
+      "content": "Você trabalhará ao lado de uma equipe qualificada de engenheiros seniores em cinco países, participando de decisões de projeto, arquitetura, manutenção e refatoração de sistemas. Você trabalhará em novos recursos e integrações e será ativo em revisões de código e coordenação esforços de engenharia entre equipes e produtos.",
+      "Itens": [
+        "Administrando e configurando software",
+        "Identificar oportunidade e ajudar a implementar uma solução de monitoramento para operações proativas e previsíveis.",
+        "Triagem de problemas com aplicativos - identificando erros conhecidos e tendências de problemas e encontrando soluções permanentes por meio da análise de causa raiz.",
+        "Fornecendo suporte a aplicativos de nível 2 e 3."
+      ]
+    }
+  },
+{
+    "id": 5,
+    "empresa": "Pod",
+    "logo": "./assets/logos/pod.svg",
+    "logoBackground": "hsl(216, 46%, 14%)",
+    "position": "Engenheiro de DevOps Remoto",
+    "postedAt": "2d atrás",
+    "contrato": "Part-Time",
+    "local": "Japão",
+    "site": "https://example.com/pod",
+    "apply": "https://example.com/pod/apply",
+    "description": "Junte-se à nossa equipe dinâmica no desenvolvimento dos principais produtos e infraestrutura de suporte do Pod. Nosso software está atualmente escrito em Java, VB.Net, React Native, React JS e outros. Você ajudará a liderar novas iniciativas para criar e melhorar os testes , soluções de teste e implantação. Você interagirá com todas as equipes de desenvolvimento, liderança de desenvolvimento e nossa equipe de hospedagem/TI para definir os requisitos e metas para a Dev Ops Platform.",
+    "requisitos": {
+      "content": "Estamos à procura de engenheiros talentosos e motivados que possam dar o pontapé inicial e levar nossos produtos ao próximo nível. Os engenheiros que estão construindo nossa plataforma em toda a pilha estão sempre dispostos a ir além para oferecer o mais alto nível software de qualidade e experiências do cliente. Idealmente, você teria:",
+      "Itens": [
+        "Bacharelado preferencial, forte preferência pela área de estudo da Ciência da Computação",
+        "Mínimo de 5 anos de experiência profissional relevante",
+        "Experiência prática com configuração e manutenção de recursos na AWS",
+        "Experiência e conhecimento sólido para implantar e manter plataformas de orquestração de contêineres como ECS ou Kubernetes",
+        "Conhecimento dos fundamentos de rede",
+        "Experiência com segurança na nuvem, entenda o princípio do privilégio mínimo",
+        "Fortes habilidades de comunicação escrita e verbal"
+      ]
+    },
+    "papel": {
+      "content": "Você trabalhará em estreita colaboração com as equipes de desenvolvimento para implementar soluções de automação usando tecnologias como Amazon Web Services (AWS), Ansible, Jenkins e Kubernetes para criar, testar, integrar e implantar sistemas complexos e modernos automaticamente. todo o poder da nuvem para configurar aplicativos altamente resilientes e escaláveis ​​que suportam tempo de inatividade zero. Esta posição está aberta a um profissional de nível médio a sênior, dependendo da experiência e do histórico.",
+      "Itens": [
+        "Configurar e manter recursos na AWS",
+        "Manter infraestrutura como código usando Terraform, CloudFormation e/ou Ansible",
+        "Responsável por implantações de produção usando Jenkins, CodeDeploy, GitHub Actions",
+        "Gerenciar grupos de segurança e controles de acesso",
+        "Use sistema de gerenciamento de tickets como Jira e Confluence para gerenciar prioridades de trabalho",
+        "Capacidade de articular e comunicar claramente ideias técnicas complexas para colegas que não são DevOps"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "empresa": "Criativo",
+    "logo": "./assets/logos/creative.svg",
+    "logoBackground": "hsl(295, 55%, 21%)",
+    "position": "Gerente de suporte de desktop",
+    "postedAt": "4d atrás",
+    "contrato": "Part-Time",
+    "local": "Alemanha",
+    "site": "https://example.com/creative",
+    "apply": "https://example.com/creative/apply",
+    "description": "A Creative está procurando um Desktop Support Manager responsável por gerenciar e liderar uma equipe de alto desempenho em um ambiente dinâmico. O candidato ideal deve ter experiência em gerenciamento, um forte conjunto de habilidades técnicas, habilidades excepcionais de atendimento ao cliente e gostar de orientar uma equipe. ",
+    "requisitos": {
+      "content": "Você provavelmente é alguém com uma sólida experiência em suporte ao usuário final e solução de problemas, pois esta posição envolve lidar com um grande número de problemas do dia-a-dia, e muitas vezes em mudança, que surgem no suporte aos requisitos de tecnologia da informação de nossos aplicativos.",
+      "Itens": [
+        "Bacharelado em TI ou áreas afins",
+        "5+ anos demonstrando fortes habilidades técnicas apoiando os usuários finais",
+        "3+ anos em uma capacidade de liderança (líder de equipe, supervisor ou gerente)",
+        "Experiência usando ferramentas de Professional Services Automation (PSA) ou plataformas de emissão de bilhetes, como ConnectWise, Autotask, ServiceNow, etc.",
+        "Possuir e demonstrar excelentes habilidades interpessoais / de comunicação"
+      ]
+    },
+    "papel": {
+      "content": "Esta é uma função de 80% de gerenciamento e 20% de supervisão prática, onde você será responsável pelo suporte de tecnologias de automação e gerenciamento de uma equipe de engenheiros de suporte em um ambiente de alto volume 24 horas por dia, 7 dias por semana.",
+      "Itens": [
+        "Liderar, treinar e gerenciar equipes de service desk diariamente para melhorar o atendimento e a eficiência do cliente",
+        "Implementar as melhores práticas e padronizar os processos da central de atendimento para fornecer um serviço excepcional de luva branca e entrega",
+        "Supervisionar o trabalho realizado pela equipe para ajudar a priorizar tickets e tarefas em aberto",
+        "Fornecer orientação e direção sobre questões técnicas",
+        "Desenvolver e manter KPIs para medir o desempenho da equipe e melhorar a experiência do cliente",
+        "Fornecer relatórios de status para a gerênciae colaborar em novas iniciativas e planejamento técnico"
+       ]
+     }
+   },
+{
+    "id": 7,
+    "empresa": "Pomodoro",
+    "logo": "./assets/logos/pomodoro.svg",
+    "logoBackground": "hsl(254, 71%, 45%)",
+    "position": "Engenheiro iOS",
+    "postedAt": "há 1 semana",
+    "contrato": "Tempo Integral",
+    "local": "Estados Unidos",
+    "site": "https://example.com/pomodoro",
+    "apply": "https://example.com/pomodoro/apply",
+    "description": "Estamos procurando um engenheiro de iOS completo e atencioso para se juntar à nossa equipe. Estamos procurando alguém para ajudar a construir a base do aplicativo e da infraestrutura. Se você estiver interessado em participar da criação de um aplicativo que milhões de pessoas usam todos os dias para aumentar sua produtividade, esta é a oportunidade perfeita. Você desempenhará um papel importante em nossa prática de engenharia móvel, implementando novos recursos, melhorando o desempenho e criando belas interfaces de usuário.",
+    "requisitos": {
+      "content": "Você é um engenheiro móvel experiente que procura fazer do Pomodoro uma das melhores experiências móveis existentes. Você é alguém que se destaca no desenvolvimento de produtos centrado no cliente e tem paixão por trabalhar na arquitetura e design de aplicativos e tornar , experiências agradáveis. Você se preocupa profundamente com a qualidade, é energizado pela parceria e colaboração e se esforça para permitir que outras pessoas ao seu redor se destaquem.",
+      "Itens": [
+        "Fortes habilidades de programação em Objective-C e/ou Swift",
+        "Experiência anterior desenvolvendo aplicativos móveis em iOS",
+        "Experiência trabalhando em estreita colaboração com uma variedade de equipes, incluindo gerenciamento de produtos, design e engenharia",
+        "Conhecimento dos principais conceitos de CS, como estruturas e algoritmos de dados comuns, criação de perfil e otimização"
+      ]
+    },
+    "papel": {
+      "content": "Você será responsável por construir infraestrutura e abstrações para nos ajudar a dobrar nossa velocidade de engenharia. Você trabalhará em todas as camadas da pilha e em estreita colaboração com parceiros em engenharia, ciência de dados, pesquisa, produto e design. Você ajude nossa base de código a ficar à frente da curva do ecossistema de desenvolvimento em constante evolução.",
+      "Itens": [
+        "Projetar e desenvolver componentes de interface do usuário que tornam o desenvolvimento de recursos mais rápido, aumentando a consistência e a acessibilidade dos designs",
+        "Crie estruturas e infraestrutura para tornar o desenvolvimento de produtos mais rápido, seguro e consistente",
+        "Melhorar o desempenho e a estabilidade do aplicativo móvel",
+        "Esforce-se para manter a base de código móvel segura"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "empresa": "Fabricante",
+    "logo": "./assets/logos/maker.svg",
+    "logoBackground": "hsl(218, 58%, 31%)",
+    "position": "Desenvolvedor EJB Sênior",
+    "postedAt": "há 1 semana",
+    "contrato": "Tempo Integral",
+    "local": "Reino Unido",
+    "site": "https://example.com/maker",
+    "apply": "https://example.com/maker/apply",
+    "description": "Estamos procurando um desenvolvedor EJB experiente que se juntará à nossa equipe de engenharia em rápido crescimento, trabalhando em aplicativos de missão crítica. Procurando um desenvolvedor Java sênior que prospere em trabalhar com empresas em vários setores com desafios de negócios exclusivos que exigem projeto de solução.",
+    "requisitos": {
+      "conteúdo": "O candidato deve ter experiência de trabalho em todos os aspectos de projeto e construção de sistemas J2EE/EJB e desenvolvimento de requisitos de sistema e especificações de projeto, e codificação J2EE/EJB para aplicativos novos e existentes.",
+      "Itens": [
+        "Licenciatura em Ciências da Computação ou equivalente",
+        "Experiência com EJB, J2EE, Tomcat, JBoss e bancos de dados relacionais como MySQL, MSSQL, Oracle",
+        "Pelo menos três anos de experiência de pós-graduação",
+        "Profundo entendimento dos princípios de programação OO e compromisso com código limpo, eficiente e bem documentado."
+      ]
+    },
+    "papel": {
+      "content": "As responsabilidades do trabalho incluirão o desenvolvimento de aplicativos Java escaláveis, ao mesmo tempo em que fornece experiência no ciclo de vida completo do desenvolvimento de software, desde o conceito e design até o teste.",
+      "Itens": [
+        "Projetar e desenvolver aplicativos de alto volume e baixa latência que aprimoram a plataforma principal do Maker",
+        "Crie um código bem projetado, testável e eficiente",
+        "Participar de todas as fases do ciclo de vida do desenvolvimento",
+        "Investigar alternativas e tecnologias e apresentá-las para revisão arquitetônica, a fim de apoiar a melhoria contínua"
+      ]
+    }
+  },
+{
+    "id": 9,
+    "company": "Coffeeroasters",
+    "logo": "./assets/logos/coffeeroasters.svg",
+    "logoBackground": "hsl(29, 60%, 87%)",
+    "position": "Desenvolvedor Frontend Sênior",
+    "postedAt": "há 1 semana",
+    "contrato": "Part-Time",
+    "local": "Cingapura",
+    "website": "https://example.com/coffeeroasters",
+    "apply": "https://example.com/coffeeroasters/apply",
+    "description": "Estamos procurando um desenvolvedor front-end experiente com foco em design de produto, juntamente com um conjunto aprimorado de habilidades de codificação e que compartilhe nossos valores em torno da tecnologia. Mais importante, gostaríamos de alguém que seja colaborativo e possa trabalhar estreitamente com o resto da nossa equipe moldando o produto.",
+    "requisitos": {
+      "content": "Você será responsável por executar soluções de alta qualidade para os clientes e contribuir para a excelência técnica do dia-a-dia de uma equipe de entrega. Você deve ter um profundo conhecimento de JavaScript moderno, HTML e CSS, a vida do desenvolvimento de software ciclo e possuir a capacidade de implementar e executar padrões de arquitetura de software padrão.",
+      "Itens": [
+        "4+ anos de experiência em Desenvolvimento Frontend",
+        "Experiência com React necessária",
+        "Experiência com Next.js, Apollo, Typescript e GraphQL preferencial"
+      ]
+    },
+    "papel": {
+      "content": "Além de trabalhar em estreita colaboração com nossa equipe para criar um aplicativo empolgante, você estará liderando o desenvolvimento de front-end do nosso produto React/Next.js. Você criará UI/UX para o aplicativo e tomará decisões de arquitetura para o frontend.",
+      "Itens": [
+        "Use sua compreensão completa das principais tecnologias do lado do cliente para arquitetar interações complexas do usuário para navegadores de desktop e móveis usando React",
+        "Criar módulos JS universais para serem usados ​​tanto no cliente quanto no servidor",
+        "Liderar, dirigir e orientar mais membros da equipe júnior (incluindo revisão de código)",
+        "Cubra seu código com testes unitários e de integração escritos com Jest e Mocha",
+        "Participar da tomada de decisões em torno das principais escolhas arquitetônicas da equipe de front-end"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "empresa": "Mastercraft",
+    "logo": "./assets/logos/mastercraft.svg",
+    "logoBackground": "hsl(0, 0%, 12%)",
+    "position": "Designer de aplicativos e sites",
+    "postedAt": "2 semanas atrás",
+    "contrato": "Freelancer",
+    "local": "Estados Unidos",
+    "site": "https://example.com/mastercraft",
+    "apply": "https://example.com/mastercraft/apply",
+    "description": "A Mastercraft está procurando um UX/UI Designer para transformar nosso software em produtos fáceis de usar para nossos clientes. As responsabilidades incluem reunir os requisitos do usuário, projetar elementos gráficos e construir componentes de software",
+    "requisitos": {
+      "content": "Para ter sucesso nessa função, você deve ter experiência com software de design e ferramentas de wireframe, de preferência Figma. Você também deve ter um portfólio de projetos de design profissional que inclua trabalho com aplicativos da web/móveis.",
+      "Itens": [
+        "Pelo menos 3 anos de experiência em áreas afins.",
+        "Portfólio de projetos de design.",
+        "Graduação em Design, UX ou área relevante.",
+        "Experiência com processo de design e abordagem sistemática para organização, fluxo de trabalho"
+      ]
+    },
+    "papel": {
+      "content": "Você criará recursos funcionais e atraentes que atendem às necessidades de nossos clientes e nos ajudam a aumentar nossa base de clientes. Esperamos que você tenha experiência com pesquisa de mercado/usuário e fique atualizado com as tendências, ferramentas e fluxos de trabalho mais recentes .",
+      "Itens": [
+        "Reúna e avalie os requisitos do usuário em colaboração com o gerente de UX/UI ou as partes interessadas.",
+        "Ilustre ideias de design usando storyboards, fluxos de processo e mapas do site.",
+        "Desenvolva modelos e protótipos de interface do usuário que ilustrem claramente como os sites funcionam e se parecem.",
+        "Criar designs gráficos originais (por exemplo, imagens, esboços e tabelas).",
+        "Identificar e solucionar problemas de UX",
+        "Realize ajustes de layout com base no feedback do usuário."
+      ]
+    }
+  },
+{
+    "id": 11,
+    "empresa": "Crowdfund",
+    "logo": "./assets/logos/crowdfund.svg",
+    "logoBackground": "hsl(157, 57%, 50%)",
+    "position": "Desenvolvedor Fullstack",
+    "postedAt": "há 1 mês",
+    "contrato": "Part-Time",
+    "local": "Nova Zelândia",
+    "site": "https://example.com/crowdfund",
+    "apply": "https://example.com/crowdfund/apply",
+    "description": "Crowdfund está atualmente expandindo e trabalhando para revolucionar o mundo da captação de recursos para qualquer projeto - criativo, empreendedor ou relacionado a causas. Venha e junte-se a nós neste crescimento! Estamos procurando um Desenvolvedor Fullstack excepcionalmente talentoso que se tornará parte integrante do novo e empolgante capítulo da empresa.",
+    "requisitos": {
+      "content": "Adoraríamos saber de você se você se apropria do seu trabalho e deseja melhorar continuamente os produtos que criou. Estamos procurando desenvolvedores que tenham uma incrível capacidade de trabalhar muito bem em várias funcionalidades em uma inicialização plana.",
+      "Itens": [
+        "4+ anos de experiência em desenvolvimento web",
+        "Fortes fundamentos de CS e habilidades de resolução de problemas",
+        "Experiência de produção com Ruby on Rails [preferencial], Python, PHP, Java ou sua pilha moderna favorita",
+        "Excelentes habilidades de depuração e forte crença em testes e cobertura automatizados",
+        "Jogador de equipe que gosta de mentoria e ambientes ágeis",
+        "Paixão, motivação, energia, sentido de humor e uma grande atitude!"
+      ]
+    },
+    "papel": {
+      "content": "Na Crowdfund, você terá a oportunidade de literalmente mudar o mundo e a vida das pessoas desenvolvendo novos recursos para nossa plataforma de consumidor para torná-la ainda mais robusta. Você trabalhará com desenvolvedores excepcionais e há muitos recursos técnicos interessantes desafios a serem enfrentados, incluindo projetos que lidam com grande volume de transações, escalabilidade e Big Data.",
+      "Itens": [
+        "Construa um mercado que capacite as pessoas a seguirem seus sonhos!",
+        "Arquitete, projete e implemente um código Ruby bonito, de alto desempenho e escalável.",
+        "Crie recursos para o sistema de pagamento internacional que vê milhões de transações por dia.",
+        "Estenda o alcance de nossas APIs de plataforma."
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "company": "Typemaster",
+    "logo": "./assets/logos/typemaster.svg",
+    "logoBackground": "hsl(22, 89%, 52%)",
+    "position": "Engenheiro Líder Técnico",
+    "postedAt": "há 1 mês",
+    "contrato": "Part-Time",
+    "local": "Reino Unido",
+    "website": "https://example.com/typemaster",
+    "apply": "https://example.com/typemaster/apply",
+    "description": "Estamos procurando um líder de tecnologia talentoso para se juntar a uma equipe que cria aplicativos da Web em larga escala e de alto desempenho. Essa equipe cria interfaces de usuário altamente visíveis e responsivas usadas por milhões de pessoas.",
+    "requisitos": {
+      "content": "Nosso trabalho não é apenas sobre o código: buscamos um líder de tecnologia que se preocupe profundamente com a experiência do usuário e como seu trabalho impacta os usuários. Um candidato ideal tem vasta experiência como engenheiro de software full-stack, incluindo experiência com ambos Django e React/Redux, nossa pilha. Essa função é perfeita para um desenvolvedor full-stack experiente que deseja crescer como engenheiro e proprietário de produto técnico. Queremos alguém que tome a iniciativa de aprender, goste de revisão de código cuidadosa e tem um histórico de colaboração com outros engenheiros de software para desenvolver melhores padrões e práticas.",
+      "Itens": [
+        "5-7 anos de experiência em engenharia de infraestrutura de aplicativos",
+        "Experiência em análise e resolução de segurança de aplicativos da Web.",
+        "Experiência trabalhando dentro de um fluxo de trabalho Javascript moderno por meio de tecnologias como: GitHub, CSS Preprocessors, Styled Components, Single Page Application frameworks e Module Bundlers (Webpack etc.)",
+        "Experiência na implementação de Testes A/B",
+        "Experiência prática com React/Redux em um aplicativo de produção"
+      ]
+    },
+    "papel": {
+      "content": "Aqui está o papel: sling code, arquitetar novos sistemas, orientar engenheiros juniores e gerenciar produto como líder de tecnologia na crescente equipe de desenvolvimento da Typemaster. Você trabalhará diretamente com os dois cofundadores técnicos da Typemaster e outros engenheiros em uma cultura que inclui código limpo, testes extensivos, iteração rápida e os valores que você traz para a mesa. Você se tornará proprietário de uma de nossas linhas de produtos e terá a capacidade de contribuir para vários projetos.",
+      "Itens": [
+        "Auditoria de segurança de aplicação web com ênfase em fluxos comerciais/transacionais",
+        "Manter e melhorar as habilidades de segurança, conhecimento e treinamento por meio do desenvolvimento profissional, incluindo a participação em conferências de tecnologia e fóruns mais amplos da comunidade de tecnologia",
+        "Trabalhe em uma pilha moderna, incluindo React e Django.",
+        "Reforce a qualidade do código por meio do desenvolvimento orientado a testes por meio de testes de unidade e testes automatizados."
+      ]
+    }
+  },
+{
+    "id": 13,
+    "empresa": "Crowdfund",
+    "logo": "./assets/logos/crowdfund.svg",
+    "logoBackground": "hsl(157, 57%, 50%)",
+    "position": "Desenvolvedor Front-end",
+    "postedAt": "há 1 mês",
+    "contrato": "Tempo Integral",
+    "local": "Nova Zelândia",
+    "site": "https://example.com/crowdfund",
+    "apply": "https://example.com/crowdfund/apply",
+    "description": "Estamos contratando um desenvolvedor de front-end para ajudar a criar a experiência de front-end para a interface de gerenciamento do Crowdfund. Como nosso candidato ideal, você é um usuário adepto da pilha de front-end (React, Yarn, webpack , Babel, SCSS, JSX, GraphQL) e um ávido aprendiz de novas estruturas. Você gosta de criar excelentes experiências de usuário, bem como componentes reutilizáveis ​​que outros desenvolvedores podem usar para resolver problemas semelhantes. Você adora código aberto e faz parte de um desenvolvedor próspero comunidade e entender que negócios fortes permitem grandes comunidades duradouras.",
+    "requisitos": {
+      "content": "Como desenvolvedor de nível médio, esperamos que você tenha uma compreensão completa de JavaScript, CSS e HTML e experiência comprovada na criação e implantação de aplicativos de página única em escala. , mas você também tem a capacidade de pensar fora das estruturas.",
+      "Itens": [
+        "Vários anos de experiência em React",
+        "Bom olho para detalhes",
+        "Paixão por ótima experiência do usuário e design de API",
+        "Confortável trabalhando com equipes multifuncionais e multiculturais"
+      ]
+    },
+    "papel": {
+      "content": "Queremos pessoas apaixonadas por criar aplicativos que você e seus colegas vão adorar. Estamos procurando um desenvolvedor front-end experiente que compartilhe nossa paixão por fazer aplicativos complexos parecerem simples para nossos clientes. Daremos a liberdade de fazer o que você faz melhor, então você deve se sentir à vontade para possuir seu trabalho do início ao fim, bem como trazer novas ideias para a mesa que podem melhorar nossos produtos, experiência de desenvolvimento e equipe. oportunidade de trabalhar em estreita colaboração com designers, gerentes de produto e outros engenheiros em toda a pilha para tornar as ideias realidade.",
+      "Itens": [
+        "Trabalhando com nossa equipe para construir nossa pilha React/Typescript/GraphQL",
+        "Colaborar com produto e design para aumentar as conversões e melhorar a experiência do usuário",
+        "Construindo aplicativos front-end novos, eficientes e escaláveis ​​que farão interface com APIs públicas e internas",
+        "Escrevendo código limpo, sustentável e testável",
+        "Trabalhar com equipes de back-end para resolver problemas complexos"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "company": "Coffeeroasters",
+    "logo": "./assets/logos/coffeeroasters.svg",
+    "logoBackground": "hsl(29, 60%, 87%)",
+    "position": "Desenvolvedor Full-Stack Júnior",
+    "postedAt": "há 1 mês",
+    "contrato": "Tempo Integral",
+    "local": "Cingapura",
+    "website": "https://example.com/coffeeroasters",
+    "apply": "https://example.com/coffeeroasters/apply",
+    "description": "Estamos procurando um desenvolvedor full-stack júnior para se juntar à nossa equipe de produtos e engenharia. Esta é uma excelente oportunidade para trabalhar na construção de nosso aplicativo web principal.",
+    "requisitos": {
+      "content": "Esta é uma posição de desenvolvedor full stack de nível básico que ajudará no desenvolvimento de aplicativos e APIs de próxima geração. Você contribuirá para equipes ágeis, fornecendo serviços que garantem que a Coffeeroasters esteja alinhando os esforços de tecnologia com as necessidades de informações de negócios. A intenção é desenvolver um desenvolvedor full stack júnior para se tornar um desenvolvedor de API completo, pronto para enfrentar qualquer oportunidade desafiadora.",
+      "Itens": [
+        "Um diploma em Ciência da Computação ou uma base de engenharia equivalente.",
+        "Experiência em Python e/ou JavaScript.",
+        "Capacidade de prosperar em uma startup de ritmo acelerado.",
+        "Alguém que gosta de aprender e é apaixonado por ajudar os outros."
+      ]
+    },
+    "papel": {
+      "content": "Estamos procurando um indivíduo dinâmico que não seja estranho à construção de aplicativos Web front-end bem projetados, com desempenho e eficazes que suportem regras/fluxos de negócios complexos. Você começará aprendendo com as experiências de nossos atuais e nossas ofertas atuais e familiarizar-se intimamente com nossa base de código. Você aproveitará sua experiência para estabelecer as melhores práticas para desenvolvimento web e conduzir a equipe e a base de código a um nível superior.",
+      "Itens": [
+        "Escrever código de front-end e criar UI para implementar novos recursos. Inclui receber dados de nossa API, estruturar esses dados e exibi-los.",
+        "Criar código de back-end para API.",
+        "Melhorar consistentemente nossa plataforma para que possamos fornecer recursos rapidamente com alta confiabilidade e escalabilidade.",
+        "Aplicar a metodologia de experiência do usuário e as melhores práticas para traduzir as necessidades do usuário e os requisitos de negócios em um design envolvente centrado no usuário.",
+        "Escrever/manter documentação para o cliente e outros membros da equipe."
+      ]
+    }
+  },
+{
+    "id": 15,
+    "empresa": "Blog",
+    "logo": "./assets/logos/blogr.svg",
+    "logoBackground": "hsl(12, 79%, 52%)",
+    "position": "Desenvolvedor de front-end de peso médio",
+    "postedAt": "há 1 mês",
+    "contrato": "Tempo Integral",
+    "local": "Estados Unidos",
+    "site": "https://example.com/blogr",
+    "apply": "https://example.com/blogr/apply",
+    "description": "Estamos procurando um Desenvolvedor Frontend que valorize a experiência do usuário, desempenho e acessibilidade. Por meio de nosso interesse duradouro em como as pessoas usam nossos produtos, o Blogr adota um modelo de desenvolvimento de software iterativo e gradual. Como alto desempenho motores, nossos produtos são construídos através de um processo de refinamento contínuo (geralmente em ciclos de lançamento de duas semanas). Estamos procurando alguém que se sinta confortável em incorporar essa abordagem.",
+    "requisitos": {
+      "content": "Você será responsável por escrever e depurar seu código enquanto escreve seus próprios testes de unidade. Estamos procurando desenvolvedores automotivados que estejam interessados ​​em aprender e possam aprender rapidamente novas tecnologias. Somos uma equipe relativamente pequena em uma empresa estável e em rápido crescimento e adoraria que você se juntasse a nós.",
+      "Itens": [
+        "Experiência em desenvolvimento de software JavaScript, preferencialmente em empresa de produtos",
+        "Experiência com React e bibliotecas de gerenciamento de estado (como Redux ou Mobx)",
+        "Entenda os problemas de compatibilidade entre navegadores e as formas de contorná-los.",
+        "Fluência na língua inglesa, excelente capacidade de comunicação"
+      ]
+    },
+    "papel": {
+      "content": "Nessa função, você faz parte de nossa equipe de produtos composta por desenvolvedores de front-end e back-end, especialistas em UX e UI e proprietários de produtos. Você trabalhará em projetos de missão crítica desde o primeiro dia, dará suporte a outros engenheiros, compartilhará seu conhecimento com seus colegas e contribuir para projetos ágeis.",
+      "Itens": [
+        "Ajude a definir nossa cultura de engenharia de software",
+        "Escrever software de alta qualidade para o frontend",
+        "Fazer revisões de código",
+        "Resolver proativamente os problemas mais importantes para o negócio"
+      ]
+    }
+  }
+]

@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-
+	box-sizing: border-box;
 }
 
 html,body{
@@ -36,21 +36,23 @@ html,body{
 
 }
 
-
-.row{ 
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
+.box {	
+	display: inline-flex;
+	margin: 0 6rem ;
 }
 
 .card{
-	width: 18rem;
-	height: 15rem;
+	margin: 4rem;
 }
 
-img{
-	width: 2rem;
-	height: 2rem;
-	margin: -1rem 1rem;
+.card img{
+	width: 2.5rem;
+	height: 2.5rem;
+	margin: -3.5rem  1rem 0;
+}
+
+#empregos{
+	width: 25rem;
+	height: 22rem;
+
 }
