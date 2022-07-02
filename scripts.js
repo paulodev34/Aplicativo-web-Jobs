@@ -24,6 +24,17 @@
         html += '<hr/>';
     }
  
-
+  
  document.getElementById("empregos").innerHTML = html;
+ document.getElementById("empregos");
+ empregos.style.cssText =
+    'background-color: #5964E0;' +
+    'color: #ccc;'+
+    'margin: 0 17rem;'+
+    'display: inline-block;'+
+    'border: 1px solid black;'+
+    'border-radius: 1rem;'+
+    'width: 60rem;'
   }
+ 
+  

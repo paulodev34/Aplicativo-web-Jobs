@@ -9,12 +9,6 @@ html,body{
 	
 }
 
-body{
-	background-color: aquamarine;
-}
-
-
-
 .logo {
 	width: 100% ;
 	position: relative;
@@ -40,8 +34,11 @@ body{
 	border-radius: 0.5rem;
 }
 
-#empregos{
-	margin: 0 10rem 0 ;
-	width: 22rem;
+.btn{
+	width: 40rem;
+	margin: 0 0 0 5rem;
 }
 
+.exampleCheck1{
+	margin-right: 0 5rem;
+}
